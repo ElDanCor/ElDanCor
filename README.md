@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Cordova</h1>
 <h3 align="center">A future Data Analyst | Business Intelligence from Mexico living in France</h3>
 
-- 🌱 I’m currently learning **Python and SQL through a Bootcamp in Practicum by Yandex**
+- 🌱 I’m currently learning **Python, SQL, Numpy, Matplotlib, Seaborn, Plotly and more through a Bootcamp in Practicum by Yandex**
 
 - 📫 How to reach me **danielcordovam@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cordova-dan/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cordova-dan/?locale=en_us" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cordova-dan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cordova-dan/?locale=en_us" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
